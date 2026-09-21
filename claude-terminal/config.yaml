@@ -12,7 +12,7 @@ arch:
   - armv7
 
 # External resources
-url: "https://github.com/esjavadex/claude-code-ha"
+url: "https://github.com/dirksenrdh/claude-code-ha"
 
 # Web interface configuration
 ingress: true
